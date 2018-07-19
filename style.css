@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+@import url('./Vivaldi_Italics.ttf');
+
+
+  body{
+   
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+
+}
+
+
+.dot{
+    background-color: #246057;
+    border-radius: 25px ;
+     height: 40px;
+    width: 180px;
+    color: gold;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 5px;
+   
+}
+
+
+
+
+p{
+
+  color: gold;
+  font-family: 'Vivaldi' , Vivaldi_Italics;
+  font-size: 150%;
+  
+  
+}
+h2{
+  color: gold;
+  font-family: 'Vivaldi' , Vivaldi_Italics;
+  
+}
+
+div.row.navbar{
+  margin-top: 15%;
+}
+.nav-link{
+           color: black;
+}
+.nav-link:hover{
+  color: #246057 ;
+}
+ .abc{
+
+  margin-right: 2%;
+  font-size: 110%;
+  font-family: 'Vivaldi' , Vivaldi_Italics;
+  color: gold;
+  
+}
+.bcd{
+
+  margin-right: 2%;
+  margin-left: 2%;
+  font-size: 110%;
+  font-family: 'Vivaldi' , Vivaldi_Italics;
+  color: gold;
+ 
+}
+.cde{
+
+  margin-left: 2%;
+  font-size:110%;
+  font-family: 'Vivaldi' , Vivaldi_Italics;
+  color: gold;
+  
+}
+input[type=text], input[type=password] {
+    width: 80%;
+    border-radius: 20px ;
+    padding: 9px 15px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: #246057;
+    text-align: center;
+}
+button[type="submit"]{
+
+   border-radius: 20px ;
+   margin: 20px 8px;
+   border: 1px solid #ccc;
+   background-color: #246057;
+   text-align: center;
+   color: gold;
+  }
+div.row{
+  text-align: center;
+  margin-top: 1%;
+}
+
+ 
+
